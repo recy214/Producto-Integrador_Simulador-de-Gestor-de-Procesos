@@ -1,0 +1,29 @@
+2025-11-29 18:40:56,700 | ======================================================================
+2025-11-29 18:40:56,700 | SIMULADOR INICIADO - Planificador FCFS
+2025-11-29 18:40:56,700 | ======================================================================
+2025-11-29 18:41:43,617 | MEMORIA COMPARTIDA: buffer creada (tamano=5)
+2025-11-29 18:41:43,617 | SEMAFORO CREADO: mutex (valor=1)
+2025-11-29 18:41:43,617 | SEMAFORO CREADO: empty (valor=5)
+2025-11-29 18:41:43,617 | SEMAFORO CREADO: full (valor=0)
+2025-11-29 18:41:43,618 | ASIGNADO: P1 (512KB, 2 pags)
+2025-11-29 18:41:43,618 | ASIGNADO: P2 (512KB, 2 pags)
+2025-11-29 18:41:45,618 | CPU ASIGNADA: P1
+2025-11-29 18:41:50,125 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:50,126 | DESBLOQUEADO: P1 de empty
+2025-11-29 18:41:50,626 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:50,626 | DESBLOQUEADO: P1 de empty
+2025-11-29 18:41:51,127 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:51,127 | DESBLOQUEADO: P1 de empty
+2025-11-29 18:41:52,128 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:52,628 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:53,129 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:53,129 | DESBLOQUEADO: P1 de empty
+2025-11-29 18:41:54,130 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:54,631 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:55,131 | BLOQUEADO: P1 en empty
+2025-11-29 18:41:55,132 | DESBLOQUEADO: P1 de empty
+2025-11-29 18:41:55,634 | TERMINADO FORZADAMENTE: P1 - Finalizo su ejecucion
+2025-11-29 18:41:55,634 | TERMINADO FORZADAMENTE: P2 - Finalizo su ejecucion
+2025-11-29 18:42:26,925 | ======================================================================
+2025-11-29 18:42:26,925 | SIMULADOR FINALIZADO
+2025-11-29 18:42:26,925 | ======================================================================
